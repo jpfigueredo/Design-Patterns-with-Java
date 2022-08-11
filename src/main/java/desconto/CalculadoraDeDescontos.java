@@ -13,7 +13,7 @@ public class CalculadoraDeDescontos {
                 )
         );
 
-        return desconto.calcular(orcamento);
+        return desconto.efetuarCalculo(orcamento);
     }
 
 
